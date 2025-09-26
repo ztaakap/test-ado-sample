@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: LMS
   description: |
-    LMS Description to be added here.
+    LMS Description to be added here .
   links:
     - title: Website
       url: http://backstage.io
