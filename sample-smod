@@ -1,0 +1,23 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Site-Modeler
+  description: |
+    Site Modeler is a tool used by the Design Engineers during the Select and Buy phase of the High Touch Flow. It allows the Design Engineers to work with the Site Concepts and Proposed Site Deliverables. Design Engineers use it for finding the right concept for different sites based on the different configurations asked by the customer. This helps them in their estimation process.
+  links:
+    - title: Website
+      url: http://backstage.io
+    - title: Documentation
+      url: https://backstage.io/docs
+    - title: Storybook
+      url: https://backstage.io/storybook
+    - title: Discord Chat
+      url: https://discord.com/invite/EBHEGzX
+  annotations:
+    github.com/project-slug: backstage/backstage
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
+spec:
+  type: service
+  owner: gfgo
+  lifecycle: production
