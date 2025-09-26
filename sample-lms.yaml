@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: LMS
+  name: LMS20
   description: |
-    LMS Description to be added here .
+    The project will be used to manage the application and infrastructure CICD setup for LMS2.0 product which is based on Grafana LGTM stack and will be hosted on Azure cloud non-ECN subscription.
   links:
     - title: Website
       url: http://backstage.io
@@ -18,6 +18,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
 spec:
-  type: library
+  type: service
   owner: gfgo
   lifecycle: production
