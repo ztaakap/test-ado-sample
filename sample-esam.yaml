@@ -3,7 +3,29 @@ kind: Component
 metadata:
   name: ESAM
   description: |
+    apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Site-Modeler
+  description: |
     The Ericsson Software Asset Management solution is used to provide transparency and insights on your Ericsson software installed base, by a comprehensive overview of entitled and installed software products/value packages, licenses and life cycle management
+  links:
+    - title: Website
+      url: http://backstage.io
+    - title: Documentation
+      url: https://backstage.io/docs
+    - title: Storybook
+      url: https://backstage.io/storybook
+    - title: Discord Chat
+      url: https://discord.com/invite/EBHEGzX
+  annotations:
+    github.com/project-slug: backstage/backstage
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
+spec:
+  type: Application
+  owner: gfgo
+  lifecycle: production
   links:
     - title: Website
       url: http://backstage.io
