@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: ESAM
   description: |
-    The Ericsson Software Asset Management solution is used to provide transparency and insights on your Ericsson software installed base, by a comprehensive overview of entitled and installed software products/value packages, licenses and life cycle management
+        The Ericsson Software Asset Management solution is used to provide transparency and insights on your Ericsson software installed base, by a comprehensive overview of entitled and installed software products/value packages, licenses and life cycle management
   links:
     - title: Website
       url: http://backstage.io
