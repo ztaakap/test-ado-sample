@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: Windchill
   description: |
-    Windchill is a web based PDM/PLM platform which supports various processes in a company. It consists of different modules working against a common database. Ericssons implementation of Windchill consists of the module PDM Link which is used to manage CAD data from the mechanical design tool Pro/Engineer & IsoDraw
+    Windchill is web based PDM/PLM platform which supports various processes in a company. It consists of different modules working against a common database. Ericssons implementation of Windchill consists of the module PDM Link which is used to manage CAD data from the mechanical design tool Pro/Engineer & IsoDraw
   links:
     - title: Website
       url: http://backstage.io
@@ -16,7 +16,7 @@ metadata:
   annotations:
     github.com/project-slug: backstage/backstage
     lighthouse.com/website-url: https://backstage.io
-    modApp-cicd-tool: ghe
+    mod-app-cicd-tool: ghe
 spec:
   type: Application
   owner: gfgo
