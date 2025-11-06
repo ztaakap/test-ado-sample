@@ -16,7 +16,7 @@ metadata:
   annotations:
     github.com/project-slug: backstage/backstage
     lighthouse.com/website-url: https://backstage.io
-    modApp-cicd-tool: azdo
+    mod-app-cicd-tool: azdo
 spec:
   type: Application
   owner: gfgo
