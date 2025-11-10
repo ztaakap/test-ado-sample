@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: PPM
   description: |
-    Project and Portfolio Management (PPM) is a global application tool catering to IT Portfolio Management, Governance, Security and Compliance aspects as well is a “Single Source of Truth” for all IT Services across Enterprise IT
+   The Project and Portfolio Management (PPM) is a global application tool catering to IT Portfolio Management, Governance, Security and Compliance aspects as well is a “Single Source of Truth” for all IT Services across Enterprise IT
   links:
     - title: Website
       url: http://backstage.io
